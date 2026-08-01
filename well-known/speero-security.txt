@@ -1,0 +1,3 @@
+Contact: mailto:security@speero.net
+Expires: 2025-12-01T14:22:00Z
+Preferred-Languages: en,ar

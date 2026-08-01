@@ -1,0 +1,26 @@
+{
+    "linkset": [
+        {
+            "anchor": "https://speero.net/",
+            "service-doc": [
+                {
+                    "href": "https://speero.net/llms.txt",
+                    "type": "text/plain",
+                    "title": "LLM-friendly site overview"
+                }
+            ],
+            "sitemap": [
+                {
+                    "href": "https://speero.net/assets/sitemap.xml",
+                    "type": "application/xml"
+                }
+            ],
+            "status": [
+                {
+                    "href": "https://speero.net/health",
+                    "type": "text/plain"
+                }
+            ]
+        }
+    ]
+}

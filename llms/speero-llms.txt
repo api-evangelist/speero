@@ -1,0 +1,69 @@
+# Speero
+
+> Speero (سبيرو) is Saudi Arabia's online marketplace for authentic automotive spare parts, accessories, and professional vehicle services — helping car owners find the right parts for their make and model and book maintenance at trusted workshops across the Kingdom.
+
+Speero connects Saudi car owners with OEM and aftermarket spare parts across all major categories (engine, brakes, suspension, lights, AC, exhaust, and more) and offers a full suite of vehicle services including periodic maintenance, detailing, paint and dent repair, window tinting, and tire care. The platform supports browsing by vehicle make, installment payment options, and WhatsApp-based customer support. The site is primarily in Arabic with an English language option.
+
+## Spare Parts
+- [Discover Parts](https://speero.net/spare-parts/discover/): Browse the full catalog of vehicle components
+- [Engine & Transmission](https://speero.net/spare-parts/engine-gears-and-its-accessories/): Engine, gears, and related components
+- [Brakes & Brake Pads](https://speero.net/spare-parts/brakes-and-brake-pads/): Braking system parts
+- [Suspension & Control Arms](https://speero.net/spare-parts/suspensions-arms-and-control-arms/): Suspension, arms, and control arms
+- [Steering](https://speero.net/spare-parts/steering-wheel-and-its-accessories/): Steering wheel and related accessories
+- [Axles, Differential & Bearings](https://speero.net/spare-parts/axles-differential-and-bearings/): Drivetrain components
+- [Spark Plugs, Filters & Timing Belt](https://speero.net/spare-parts/spark-plugs-filters-and-time-belt/): Ignition and filtration parts
+- [Fuel System](https://speero.net/spare-parts/fuel-system/): Fuel delivery and injection components
+- [Exhaust](https://speero.net/spare-parts/exhaust/): Exhaust system parts
+- [AC & Cooling System](https://speero.net/spare-parts/ac-and-cooling-system/): Air conditioning and engine cooling
+- [Headlights & Rear Lights](https://speero.net/spare-parts/headlights-and-rear-lights/): Front and rear lighting assemblies
+- [Bumpers, Grills & Front End](https://speero.net/spare-parts/bumpers-grills-and-front-end/): Bumpers, grills, and front-end parts
+- [Doors, Fender & Hood](https://speero.net/spare-parts/doors-fender-and-hood/): Body panels and closures
+
+## Accessories & Consumables
+- [Oils & Fluids](https://speero.net/spare-parts/oil-and-fluids/): Engine oil, transmission fluid, coolants, and additives
+- [Interior Accessories](https://speero.net/spare-parts/interior-accessories/): Cabin accessories and upgrades
+- [Car Care Accessories](https://speero.net/spare-parts/car-care-accessories/): Cleaning and maintenance products
+- [Lights & Bulbs](https://speero.net/spare-parts/lights-and-pulps/): Replacement bulbs and auxiliary lighting
+- [Tools & Equipment](https://speero.net/spare-parts/tools-accessories/): Workshop tools and DIY equipment
+
+## Vehicle Services
+- [All Car Services](https://speero.net/car-services/): Browse professional automotive service catalog
+- [Top Selling Services](https://speero.net/car-services/category/top-selling/): Most popular booked services
+- [Periodic Maintenance](https://speero.net/car-services/category/periodic-services/): Scheduled service packages
+- [Detailing Services](https://speero.net/car-services/category/detailing-services/): Interior and exterior detailing
+- [Denting & Painting](https://speero.net/car-services/category/denting-and-painting/): Paint and body repair
+- [Windshields & Lights](https://speero.net/car-services/category/windshields-and-lights/): Glass replacement and protection
+- [Custom Services & Tinting](https://speero.net/car-services/category/custom-services/): Window tinting and customization
+- [Tyres & Wheel Care](https://speero.net/car-services/category/tyres-and-wheel-care/): Tire installation, balancing, alignment
+- [AC Service & Repair](https://speero.net/car-services/category/ac-service-and-repair/): Air conditioning diagnostics and repair
+- [Car Spa & Cleaning](https://speero.net/car-services/category/car-spa-and-cleaning/): Professional cleaning services
+- [General Services](https://speero.net/car-services/category/general/): Miscellaneous repair and maintenance
+
+## Shop by Vehicle Make
+- [Toyota](https://speero.net/m-toyota/): Parts for all Toyota models
+- [Hyundai](https://speero.net/m-hyundai/): Parts for all Hyundai models
+- [Kia](https://speero.net/m-kia/): Parts for all Kia models
+- [Nissan](https://speero.net/m-nissan/): Parts for all Nissan models
+- [Ford](https://speero.net/m-ford/): Parts for all Ford models
+- [Chevrolet](https://speero.net/m-chevrolet/): Parts for all Chevrolet models
+- [Honda](https://speero.net/m-honda/): Parts for all Honda models
+- [BMW](https://speero.net/m-bmw/): Parts for all BMW models
+- [GMC](https://speero.net/m-gmc/): Parts for all GMC models
+- [Lexus](https://speero.net/m-lexus/): Parts for all Lexus models
+- [Changan](https://speero.net/m-changan/): Parts for all Changan models
+
+## Account & Checkout
+- [Customer Login](https://speero.net/customer-login/): Sign in to your Speero account
+- [Shopping Cart](https://speero.net/spare-parts/cart/): Review items and checkout
+
+## Company & Support
+- [About Us](https://speero.net/about-us/): Company mission and story
+- [Blog](https://speero.net/blog/): Car care tips, guides, and industry news
+- [Premium Quotation](https://speero.net/premium-quotation/): Request a custom parts quotation
+- [Payment Methods](https://speero.net/payment-methods/): Accepted payment options including installments
+- [Privacy Policy](https://speero.net/privacy-policy/): How user data is handled
+- [Terms & Conditions](https://speero.net/terms-and-conditions/): Platform usage terms
+- [WhatsApp Support](https://wa.me/966920031983): Customer support via WhatsApp
+
+## Optional
+- [English Version](https://speero.net/?lang=en): Site in English (default is Arabic)

@@ -1,7 +1,28 @@
 aid: speero
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/speero.png
 name: Speero
-description: Speero is a company surfaced as a portfolio company of 500-global and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Speero (سبيرو) is Saudi Arabia's online marketplace for authentic automotive
+  spare parts, accessories, and professional vehicle services. The platform helps
+  car owners find OEM and aftermarket parts for their specific make and model
+  across all major categories (engine, brakes, suspension, lighting, AC, exhaust,
+  and more) and book maintenance, detailing, paint and dent repair, tinting, and
+  tire care at trusted workshops across the Kingdom. It supports browse-by-vehicle,
+  installment payment options, and WhatsApp-based customer support. Speero is a
+  500 Global portfolio company. It is a consumer marketplace and publishes no
+  public developer API, but it does expose a machine-discovery surface (llms.txt,
+  RFC 9116 security.txt, and an RFC 9727 api-catalog linkset).
 url: https://raw.githubusercontent.com/api-evangelist/speero/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,9 +32,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Automotive
+- Marketplace
+- E-Commerce
+- Spare Parts
+- Vehicle Services
+- Auto Parts
+- Saudi Arabia
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +51,34 @@ maintainers:
 common:
 - type: Website
   url: https://speero.net
+- type: About
+  url: https://speero.net/about-us/
+- type: Blog
+  url: https://speero.net/blog/
+- type: Login
+  url: https://speero.net/customer-login/
+- type: Support
+  url: https://wa.me/966920031983
+- type: TermsOfService
+  url: https://speero.net/terms-and-conditions/
+- type: PrivacyPolicy
+  url: https://speero.net/privacy-policy/
+- type: LLMsTxt
+  url: llms/speero-llms.txt
+- type: WellKnown
+  url: well-known/speero-well-known.yml
+- type: APICatalog
+  url: well-known/speero-api-catalog.json
+- type: SecurityTxt
+  url: well-known/speero-security.txt
+- type: DomainSecurity
+  url: security/speero-domain-security.yml
+- type: VulnerabilityDisclosure
+  url: security/speero-vulnerability-disclosure.yml
+- type: Security
+  url: security/speero-vulnerability-disclosure.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 6
+  pass: local-v1
